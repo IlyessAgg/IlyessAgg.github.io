@@ -39,7 +39,7 @@ The goal of this project is to generate a synthesis of the data created by Frenc
     <p><i>TSNE Visualization of corpus</i></p>
 </div>
 
-My approach focused on the environmental questions. I also used N_Grams and LDA to pick up the subjects that came up most often in the answers. The results were issues like overconsumption, greenhouse gas emissions, extinction of species, fossil/nuclear energy, etc. Finally, I looked at whether those subjects emerged in the summary of Emmanuel Macron's appearance in the ***Grand Débat*** emission.
+My approach focused on the environmental questions. I used N_Grams and LDA to pick up the subjects that came up most often in the answers. The results were issues like overconsumption, greenhouse gas emissions, extinction of species, fossil/nuclear energy, etc. Finally, I looked at whether those subjects emerged in the summary of Emmanuel Macron's appearance in the ***Grand Débat*** emission.
 
 ------
 
@@ -63,7 +63,7 @@ We built a basic CNN structure for this classification task. We then built anoth
     <p><i>Plot of the heartrate during the different activities.</i></p>
 </div>
 
-The purpose of this project was to deal with diverse sources of data and determine how to make use of them for our task. For example, each sensor had a different frequency so understanding and standardizing the different attributes was the essential part of the project. 
+The purpose of this project was to deal with diverse sources of data and determine how to make use of them for our task. For example, each sensor had a different frequency so understanding and standardizing the different attributes was an essential part of this project. 
 
 Since the dataset provides the data for only 15 subjects, I aimed my study at looking how the model developed would perform on unseen data.
 
