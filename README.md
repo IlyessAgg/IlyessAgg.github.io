@@ -5,6 +5,8 @@
   <img src="imgs/undraw_about_me_wa29.png" width="600" height="462"/>
 </p>
 
+*It's better to look at it on this [link](https://ilyessagg.github.io/) instead of on github.*
+
 ## Academics
 
 *A project with 📜 means I had some external help (project as part of a course or help from a teacher).*
@@ -15,14 +17,12 @@
 
 The goal of the project is to be able to predict the rating of a review based on text review.
 
-<div align="center">
 |     | Reviews Text | Reviews Rating |
 | :-: | :----------: | :------------: |
 | 1 | This hotel was nice and quiet. Did not know, ... | 3 |
 | 2 | Not cheap but excellent location. Price is ... | 5 |
 | 3 | Parking was horrible, somebody ran into my ... | 3 |
 | . . . | . . . | . . . |
-</div>
 
 After preprocessing the text (*tokenization, stopwords, lemmatization, etc.*), I used *SentimentAnalyzer* in the nltk library to rate the sentiment of a review  (~ 1 means positive, ~ -1 means negative). From that grade I build a classifier that would predict the rating of the review.
 
@@ -136,9 +136,9 @@ Based on the imaging modality (scan & mask), I re-computed radiomics features us
 ------
 
 <div>
-    <h4 style="display: inline;">Segmentation of liver tumor &nbsp;</h4>
-    <img src="imgs/loadingcircles_icon.png" width='28' style="vertical-align:center;">
-    <span><i>ongoing</i></span>
+    <h4 style="display: inline;">Segmentation of liver tumor </h4>
+    <img src="imgs/loadingcircles_icon.png" width='20' style="vertical-align:center;">
+    <span><i> ongoing</i></span>
 </div>
 
 The goal of this [challenge](https://competitions.codalab.org/competitions/17094) is to segment liver lesions in contrast­-enhanced abdominal CT scans. Liver segmentation and tumor burden estimation are also evaluated. The data and segmentations are provided by various clinical sites around the world.
