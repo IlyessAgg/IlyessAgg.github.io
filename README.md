@@ -136,9 +136,9 @@ Based on the imaging modality (scan & mask), I re-computed radiomics features us
 ------
 
 <div>
-    <h4 style="display: inline;">Segmentation of liver tumor </h4>
+    <h4 style="display: inline;">Segmentation of liver tumor</h4>
     <img src="imgs/loadingcircles_icon.png" width='20' style="vertical-align:center;">
-    <span><i> ongoing</i></span>
+    <span><i>ongoing</i></span>
 </div>
 
 The goal of this [challenge](https://competitions.codalab.org/competitions/17094) is to segment liver lesions in contrast­-enhanced abdominal CT scans. Liver segmentation and tumor burden estimation are also evaluated. The data and segmentations are provided by various clinical sites around the world.
